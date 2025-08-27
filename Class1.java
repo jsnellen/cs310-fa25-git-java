@@ -18,7 +18,7 @@ public class Class1 {
     }
 
     private void f4() {
-        // v4.0 (in development)
+        // v4.1 (completed new feature)
     }
 
 }
